@@ -26,6 +26,4 @@
 • Keep an eye on the cost
 
 
-![[Pasted image 20230508123417.png]]
-
-![[Pasted image 20230508123700.png]]
+![Pasted image 20230508123417](https://github.com/irtiash/demo-repo/assets/64924545/a949a624-0786-4dbc-8c4f-e4d43063c6d6)
